@@ -1,129 +1,72 @@
-<div align="center">
+<!-- HEADER CARD -->
+# 👨‍💻 Gilson Gil
 
-# Gilson Gil
-
-### Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing Animation" />
+> 💡 Full-Stack Developer | 🚀 Web Enthusiast | ⚙️ Problem Solver
 
 ---
 
-*"Transformando ideias em experiências digitais."*
+## 🧠 Sobre mim
 
-</div>
-
-<br>
-
-# 👨‍💻 Sobre
-
-Sou um desenvolvedor Full Stack apaixonado por criar aplicações web modernas, rápidas e intuitivas.
-
-Tenho como foco desenvolver soluções escaláveis utilizando JavaScript em todo o ecossistema, desde o frontend até o backend.
-
-Atualmente estou aprofundando meus conhecimentos em React, Node.js, Express e MongoDB enquanto construo projetos para fortalecer meu portfólio.
+🟣 👨‍🎓 Estudante de programação em evolução constante  
+🟣 🌐 Foco em desenvolvimento Web (Frontend + Backend)  
+🟣 ⚙️ Crio APIs, sistemas e aplicações completas  
+🟣 📚 Sempre aprendendo novas tecnologias  
+🟣 🎯 Objetivo: tornar-me um dev full-stack profissional  
 
 ---
 
-# ⚙️ Stack
+## 🧱 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+### 💻 Frontend
+- ⚛️ React.js  
+- 🎨 HTML, CSS  
+- ⚡ JavaScript  
 
-### Frontend
+### 🖥️ Backend
+- 🟢 Node.js  
+- 🚂 Express  
+- 🍃 MongoDB  
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Vite
-
-</td>
-
-<td width="50%">
-
-### Backend
-
-* Node.js
-* Express
-* MongoDB
-* Mongoose
-* JWT
-
-</td>
-</tr>
-</table>
+### 🧰 Tools
+- 🔧 Git & GitHub :contentReference[oaicite:0]{index=0}  
+- 🧪 REST APIs  
+- 🐙 Postman  
 
 ---
 
-# 🧠 Atualmente estudando
+## 📊 GitHub Stats
 
-```
-📖 TypeScript
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=tokyonight)
 
-⚛️ Next.js
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=gilsongillazaro-cyber&theme=tokyonight)
 
-🐳 Docker
-
-☁️ Deploy
-
-🔐 Segurança de APIs
-```
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=tokyonight)
 
 ---
 
-# 📁 Projetos
+## 📂 Projetos em destaque
 
-| Projeto          | Descrição               |
-| ---------------- | ----------------------- |
-| 🛒 E-commerce    | Loja virtual Full Stack |
-| 💬 Chat          | Sistema de mensagens    |
-| 🔐 Auth API      | Login com JWT           |
-| 📦 REST API      | API utilizando Express  |
-| 📱 Responsive UI | Interfaces modernas     |
+🟦 🔹 Sistema de login com JWT  
+🟦 🔹 API REST com Node.js + MongoDB  
+🟦 🔹 E-commerce simples  
+🟦 🔹 Projetos pessoais de estudo  
 
----
-
-# 💡 Filosofia
-
-```txt
-Escrever código limpo.
-
-Resolver problemas reais.
-
-Aprender continuamente.
-
-Compartilhar conhecimento.
-```
+👉 Ver mais:  
+🔗 https://github.com/gilsongillazaro-cyber
 
 ---
 
-# 🌎 Contato
+## 📫 Contactos
 
-📧 **Email**
-
-[gilsongillazro@gmail.com](mailto:gilsongillazro@gmail.com)
-
-<br>
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/gilson-gil-077b7841b/
-
-<br>
-
-🐙 **GitHub**
-
-https://github.com/gilsongillazaro-cyber
+📧 Email: gilsongillazaro@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/gilson-gil-077b  
+🐙 GitHub: https://github.com/gilsongillazaro-cyber  
 
 ---
 
-<div align="center">
+## ⚡ Motivação
 
-## Obrigado pela visita!
-
-Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios.
-
-⭐ Sempre há algo novo em desenvolvimento.
-
-</div>
+> “Code. Learn. Improve. Repeat.” 🚀
