@@ -90,15 +90,15 @@ Meu objetivo é evoluir continuamente, contribuir para projetos desafiadores e t
 
 <p align="left">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/gilsongillazaro-cyber">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_PERFIL">
+<a href="https://www.linkedin.com/in/gilson-gil-077b7841b">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:gilsongillazaro@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
