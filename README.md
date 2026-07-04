@@ -1,22 +1,26 @@
 # 👋 Olá, eu sou o Gilson Gil
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+MongoDB;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+MongoDB;Construindo+projetos+modernos;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gilsongillazaro-cyber&label=Visualizações&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
 
 ---
 
-## 💻 Sobre mim
+## 🚀 Sobre mim
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar aplicações modernas, rápidas e intuitivas.
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento web.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, construindo projetos completos utilizando React no front-end e Node.js no back-end.
+Atualmente estou focado em construir aplicações completas utilizando **React**, **Node.js**, **Express** e **MongoDB**, buscando sempre escrever código limpo, escalável e de fácil manutenção.
 
-Meu objetivo é evoluir continuamente, contribuir para projetos desafiadores e transformar ideias em soluções reais.
+Meu objetivo é evoluir constantemente, contribuir para projetos inovadores e transformar ideias em soluções reais.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 ### Front-end
 
@@ -38,22 +42,22 @@ Meu objetivo é evoluir continuamente, contribuir para projetos desafiadores e t
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 Sequência de contribuições
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gilsongillazaro-cyber&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -61,59 +65,61 @@ Meu objetivo é evoluir continuamente, contribuir para projetos desafiadores e t
 ## 🏆 Troféus
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gilsongillazaro-cyber&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📌 Atualmente
+## 📚 Atualmente estudando
 
-* 🚀 Desenvolvendo projetos Full Stack
-* 📚 Aprendendo novas tecnologias diariamente
-* 💡 Criando APIs REST
-* 🔐 Trabalhando com autenticação JWT
-* ☁️ Explorando deploy e hospedagem
+* ⚛️ React
+* 🟢 Node.js
+* 🚀 Express
+* 🍃 MongoDB
+* 🔐 Autenticação com JWT
+* 🌐 APIs REST
+* ☁️ Deploy de aplicações
 
 ---
 
-## 📂 Projetos em destaque
+## 📌 Projetos
 
 * 🛒 Loja Virtual Full Stack
 * 💬 Sistema de Chat em Tempo Real
-* 📦 API REST com Node.js
 * 🔐 Sistema de Login e Cadastro
+* 📦 API REST com Node.js
 * 📱 Aplicações Responsivas
 
 ---
 
-## 🌍 Vamos nos conectar
+## 📫 Contato
 
-<p align="left">
+<p>
 
 <a href="https://github.com/gilsongillazaro-cyber">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gilson-gil-077b7841b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:gilsongillazaro@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
-## 💡 Frase
+## 💭 Filosofia
 
-> **"Cada linha de código é um passo a mais na construção do futuro."**
+> **"Aprender, construir e evoluir. Um projeto de cada vez."**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilsongillazaro-cyber&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado pela visita!
+
+Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
 
 </p>
