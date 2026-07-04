@@ -1,7 +1,7 @@
 # ⚡ Gilson Gil
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Turning+Ideas+Into+Code;Always+Leveling+Up+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=28&pause=900&color=00BFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Apps;Turning+Ideas+Into+Reality;Always+Leveling+Up+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -14,20 +14,16 @@
 
 <p align="center">
 
-<!-- GITHUB STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=tokyonight" width="48%" />
 
-<!-- STREAK -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsongillazaro-cyber&theme=tokyonight" width="48%" />
 
 </p>
 
 <p align="center">
 
-<!-- LANGUAGES -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=tokyonight" width="48%" />
 
-<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilsongillazaro-cyber&theme=tokyo-night" width="48%" />
 
 </p>
@@ -38,29 +34,45 @@
 
 👨‍💻 Full-Stack Developer  
 🌐 Web Development (Frontend + Backend)  
-⚙️ Node.js + Express + MongoDB  
-🎨 React.js UI Developer  
-📚 Sempre aprendendo tecnologia nova  
+⚙️ API & Backend Specialist  
+🎨 UI Developer com React  
+📚 Aprendizado contínuo  
 🎯 Objetivo: nível senior / empresa tech  
 
 ---
 
 ## ⚡ TECH STACK
 
-![React](https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-00BFFF?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Express](https://img.shields.io/badge/Express-00BFFF?style=for-the-badge&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-00BFFF?style=for-the-badge&logo=mongodb&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=black)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 PROJETOS
 
-🔐 Login system com JWT  
-🌐 API REST completa (Node + MongoDB)  
-🛒 E-commerce web app  
+🔐 Sistema de login com JWT  
+🌐 API REST com Node + Express + MongoDB  
+🛒 E-commerce moderno com React  
 ⚙️ Projetos full-stack pessoais  
 
 ---
@@ -69,10 +81,11 @@
 
 📧 Email: gilsongillazaro@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/gilson-gil-077b  
-🐙 GitHub: https://github.com/gilsongillazaro-cyber  
+🐙 GitHub: https://github.com/gilsongillazaro-cyber :contentReference[oaicite:0]{index=0}  
 
 ---
 
 ## 💡 MINDSET
 
-> “Build. Break. Improve. Repeat.” ⚡
+> “Clean code. Strong mindset. Infinite growth.” ⚡
+> 
