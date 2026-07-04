@@ -1,72 +1,21 @@
-<!-- HEADER CARD -->
-# 👨‍💻 Gilson Gil
+<!-- NEON HEADER -->
+<h1 align="center" style="color:#00BFFF;">⚡ Gilson Gil</h1>
 
-> 💡 Full-Stack Developer | 🚀 Web Enthusiast | ⚙️ Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00BFFF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Clean+Modern+Web+Apps;Always+Learning+New+Tech+%F0%9F%9A%80" />
+</p>
 
----
-
-## 🧠 Sobre mim
-
-🟣 👨‍🎓 Estudante de programação em evolução constante  
-🟣 🌐 Foco em desenvolvimento Web (Frontend + Backend)  
-🟣 ⚙️ Crio APIs, sistemas e aplicações completas  
-🟣 📚 Sempre aprendendo novas tecnologias  
-🟣 🎯 Objetivo: tornar-me um dev full-stack profissional  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gilsongillazaro-cyber&label=VISITORS&color=00BFFF&style=for-the-badge" />
+</p>
 
 ---
 
-## 🧱 Tech Stack
+## 💎 Sobre Mim
 
-### 💻 Frontend
-- ⚛️ React.js  
-- 🎨 HTML, CSS  
-- ⚡ JavaScript  
-
-### 🖥️ Backend
-- 🟢 Node.js  
-- 🚂 Express  
-- 🍃 MongoDB  
-
-### 🧰 Tools
-- 🔧 Git & GitHub :contentReference[oaicite:0]{index=0}  
-- 🧪 REST APIs  
-- 🐙 Postman  
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=tokyonight)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=gilsongillazaro-cyber&theme=tokyonight)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Projetos em destaque
-
-🟦 🔹 Sistema de login com JWT  
-🟦 🔹 API REST com Node.js + MongoDB  
-🟦 🔹 E-commerce simples  
-🟦 🔹 Projetos pessoais de estudo  
-
-👉 Ver mais:  
-🔗 https://github.com/gilsongillazaro-cyber
-
----
-
-## 📫 Contactos
-
-📧 Email: gilsongillazaro@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gilson-gil-077b  
-🐙 GitHub: https://github.com/gilsongillazaro-cyber  
-
----
-
-## ⚡ Motivação
-
-> “Code. Learn. Improve. Repeat.” 🚀
+```bash
+👨‍💻 Full-Stack Developer
+🌐 Web & API Development
+⚙️ Node.js + React Specialist
+📚 Always improving skills
+🎯 Goal: Senior Software Engineer
