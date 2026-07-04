@@ -1,177 +1,129 @@
-# <div align="center">⚡ Gilson Gil ⚡</div>
-
 <div align="center">
 
-### 💻 Full Stack Developer | React • Node.js • MongoDB
+# Gilson Gil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo;React+%7C+Node.js+%7C+MongoDB" />
+### Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" alt="Typing Animation" />
+
+---
+
+*"Transformando ideias em experiências digitais."*
 
 </div>
 
----
+<br>
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 Sobre
 
-```js
-const gilson = {
-  nome: "Gilson Gil",
-  localizacao: "Angola 🇦🇴",
-  cargo: "Full Stack Developer",
+Sou um desenvolvedor Full Stack apaixonado por criar aplicações web modernas, rápidas e intuitivas.
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Vite"
-  ],
+Tenho como foco desenvolver soluções escaláveis utilizando JavaScript em todo o ecossistema, desde o frontend até o backend.
 
-  backend: [
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "Mongoose"
-  ],
-
-  estudando: [
-    "TypeScript",
-    "Next.js",
-    "Docker"
-  ],
-
-  objetivo:
-    "Criar aplicações modernas, rápidas e escaláveis."
-}
-```
+Atualmente estou aprofundando meus conhecimentos em React, Node.js, Express e MongoDB enquanto construo projetos para fortalecer meu portfólio.
 
 ---
 
-# 🥧 Skills
+# ⚙️ Stack
 
-<table align="center">
+<table>
 <tr>
+<td width="50%">
 
-<td align="center">
+### Frontend
 
-### Front-end
-
-🟢🟢🟢🟢🟢 HTML
-
-🟢🟢🟢🟢⚪ CSS
-
-🟢🟢🟢🟢⚪ JavaScript
-
-🟢🟢🟢⚪⚪ React
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Vite
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### Back-end
+### Backend
 
-🟢🟢🟢🟢⚪ Node.js
-
-🟢🟢🟢⚪⚪ Express
-
-🟢🟢🟢⚪⚪ MongoDB
-
-🟢🟢⚪⚪⚪ Docker
+* Node.js
+* Express
+* MongoDB
+* Mongoose
+* JWT
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🚀 Tecnologias
+# 🧠 Atualmente estudando
 
-<p align="center">
+```
+📖 TypeScript
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,nodejs,express,mongodb,git,github,vscode,postman,npm" />
+⚛️ Next.js
 
-</p>
+🐳 Docker
 
----
+☁️ Deploy
 
-# 📊 GitHub
-
-> As estatísticas aparecerão automaticamente quando o GitHub indexar sua atividade pública.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+🔐 Segurança de APIs
+```
 
 ---
 
-# 🔥 Atualmente
+# 📁 Projetos
 
-* 🚀 Desenvolvendo projetos Full Stack
-* 🌐 Criando APIs REST
-* 🔐 Autenticação JWT
-* 📱 Interfaces responsivas
-* 📚 Aprendendo novas tecnologias diariamente
-
----
-
-# 📂 Projetos
-
-* 🛒 Loja Virtual
-* 💬 Chat em Tempo Real
-* 🔐 Sistema de Login
-* 📦 API REST
-* 📱 Aplicações Responsivas
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="mailto:gilsongillazro@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/gilson-gil-077b7841b/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-   
-
-<a href="https://github.com/gilsongillazaro-cyber">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-</p>
-
-<div align="center">
-
-📧 **Email:** [gilsongillazro@gmail.com](mailto:gilsongillazro@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/gilson-gil-077b7841b/
-
-🐙 **GitHub:** https://github.com/gilsongillazaro-cyber
-
-</div>
+| Projeto          | Descrição               |
+| ---------------- | ----------------------- |
+| 🛒 E-commerce    | Loja virtual Full Stack |
+| 💬 Chat          | Sistema de mensagens    |
+| 🔐 Auth API      | Login com JWT           |
+| 📦 REST API      | API utilizando Express  |
+| 📱 Responsive UI | Interfaces modernas     |
 
 ---
 
 # 💡 Filosofia
 
-> **"Cada projeto é uma oportunidade para aprender, evoluir e criar soluções que fazem a diferença."**
+```txt
+Escrever código limpo.
+
+Resolver problemas reais.
+
+Aprender continuamente.
+
+Compartilhar conhecimento.
+```
+
+---
+
+# 🌎 Contato
+
+📧 **Email**
+
+[gilsongillazro@gmail.com](mailto:gilsongillazro@gmail.com)
+
+<br>
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/gilson-gil-077b7841b/
+
+<br>
+
+🐙 **GitHub**
+
+https://github.com/gilsongillazaro-cyber
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## Obrigado pela visita!
 
-Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios.
+
+⭐ Sempre há algo novo em desenvolvimento.
 
 </div>
