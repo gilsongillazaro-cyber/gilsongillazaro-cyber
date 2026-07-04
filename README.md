@@ -1,100 +1,114 @@
-# 👋 Olá, eu sou o Gilson Gil
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá! Eu sou o **Gilson Gil**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+MongoDB;Sempre+aprendendo+novas+tecnologias;Bem-vindo+ao+meu+GitHub!" />
+
+</div>
+
+---
+
+# 💻 Sobre Mim
+
+```javascript
+const gilson = {
+    nome: "Gilson Gil",
+    pais: "Angola 🇦🇴",
+    stack: [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+    ],
+    aprendendo: [
+        "TypeScript",
+        "Next.js",
+        "Docker"
+    ],
+    objetivo: "Construir aplicações modernas e escaláveis."
+}
+```
+
+---
+
+# ⚡ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,npm" />
+
+</div>
+
+---
+
+# 📈 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsongillazaro-cyber&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gilsongillazaro-cyber&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 O que estou fazendo
+
+* 💻 Desenvolvendo projetos Full Stack
+* 🌐 Criando APIs REST
+* 🔐 Trabalhando com autenticação JWT
+* 📱 Desenvolvendo interfaces responsivas
+* 📚 Aprendendo novas tecnologias diariamente
+
+---
+
+# 📂 Projetos
+
+* 🛒 Loja Virtual
+* 💬 Sistema de Chat
+* 🔐 Sistema de Login
+* 📦 API REST
+* 🌐 Projetos Web Responsivos
+
+---
+
+# 📫 Contato
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+MongoDB;Construindo+projetos+modernos;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gilsongillazaro-cyber&label=Visualizações&color=0e75b6&style=flat" alt="Contador de visitas" />
-</p>
+<a href="gilsongilazaro@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
----
+  
 
-## 🚀 Sobre mim
+<a href="https://www.linkedin.com/in/gilson-gil-077b7841b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento web.
-
-Atualmente estou focado em construir aplicações completas utilizando **React**, **Node.js**, **Express** e **MongoDB**, buscando sempre escrever código limpo, escalável e de fácil manutenção.
-
-Meu objetivo é evoluir constantemente, contribuir para projetos inovadores e transformar ideias em soluções reais.
-
----
-
-## 🛠️ Tecnologias
-
-### Front-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
-</p>
-
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilsongillazaro-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsongillazaro-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gilsongillazaro-cyber&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gilsongillazaro-cyber&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📚 Atualmente estudando
-
-* ⚛️ React
-* 🟢 Node.js
-* 🚀 Express
-* 🍃 MongoDB
-* 🔐 Autenticação com JWT
-* 🌐 APIs REST
-* ☁️ Deploy de aplicações
-
----
-
-## 📌 Projetos
-
-* 🛒 Loja Virtual Full Stack
-* 💬 Sistema de Chat em Tempo Real
-* 🔐 Sistema de Login e Cadastro
-* 📦 API REST com Node.js
-* 📱 Aplicações Responsivas
-
----
-
-## 📫 Contato
-
-<p>
+  
 
 <a href="https://github.com/gilsongillazaro-cyber">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -104,22 +118,10 @@ Meu objetivo é evoluir constantemente, contribuir para projetos inovadores e tr
 
 ---
 
-## 💭 Filosofia
+<div align="center">
 
-> **"Aprender, construir e evoluir. Um projeto de cada vez."**
+### 💙 *"Transformando ideias em código e código em soluções."*
 
----
+⭐ Obrigado por visitar meu perfil!
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilsongillazaro-cyber&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Obrigado pela visita!
-
-Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
-
-</p>
+</div>
