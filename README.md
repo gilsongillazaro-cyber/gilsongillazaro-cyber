@@ -59,16 +59,20 @@ Sempre procuro escrever código limpo, reutilizável e preparado para cresciment
 
 <p align="center">
 
-<a href="mailto:gilsongillazaro@gmail.com">
+<a href="mailto:gilsongillazaro@gmail.com" target="_blank">
 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
-<a href="https://www.linkedin.com/in/gilson-gil-077b">
+<a href="https://www.linkedin.com/in/gilsongil007" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
+</a>
+
+<a href="https://www.instagram.com/gilson_gil7" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/gilsongillazaro-cyber">
