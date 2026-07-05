@@ -507,7 +507,7 @@ Se gostaste dos meus projetos, deixa uma ⭐ nos repositórios e acompanha a min
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,redux,firebase"/>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker"/>
 
 </div>
 
