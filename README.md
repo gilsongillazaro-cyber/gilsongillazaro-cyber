@@ -153,7 +153,7 @@ Sempre procuro escrever código limpo, reutilizável e preparado para cresciment
 ## 🎨 Front-end
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ Sempre procuro escrever código limpo, reutilizável e preparado para cresciment
 ## ⚙️ Back-end
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
@@ -169,7 +169,15 @@ Sempre procuro escrever código limpo, reutilizável e preparado para cresciment
 ## 🗄️ Base de Dados
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+## ☁️ Armazenamento de Imagens
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
@@ -177,10 +185,11 @@ Sempre procuro escrever código limpo, reutilizável e preparado para cresciment
 ## 🛠️ Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-6C47FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
 
 # 📚 Competências
 
